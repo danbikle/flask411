@@ -1,1 +1,1 @@
-web: python mypy/f2.py
+web: python f2.py
