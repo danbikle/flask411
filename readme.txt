@@ -15,7 +15,7 @@ heroku logs
 
 To run this app on my laptop, I run this shell command:
 
-python f2.py
+python flask411.py
 
 curl 0.0.0.0:5000/
 
